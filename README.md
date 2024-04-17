@@ -1,2 +1,4 @@
 # webcrawler
- A poorly designed webcrawler made to find all pages in a website related to that website
+ A poorly made webcrawler designed to find all page links in a webpage related to that webpage
+
+Use large network links at your own risk
